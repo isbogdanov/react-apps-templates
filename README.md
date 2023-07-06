@@ -33,3 +33,6 @@ to deploy
 > npm run build
 
 > npx firebase deploy
+
+
+React and Vite Credits to [Brian Holt](https://github.com/btholt) 
